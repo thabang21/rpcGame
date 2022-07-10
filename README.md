@@ -10,7 +10,7 @@ rock paper scissor game
 
 ## Live Demo
 
-[Live Demo Link](https://courageous-melomakarona-736c05.netlify.app/)
+[Live Demo Link](https://rad-narwhal-1c3c8a.netlify.app)
 
 ## Authors
 
